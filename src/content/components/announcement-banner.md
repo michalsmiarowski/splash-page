@@ -2,4 +2,4 @@
 template: announcement
 title: Announcement
 ---
-Test 123
+Eth goes up finally!
